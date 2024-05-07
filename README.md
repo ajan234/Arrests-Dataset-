@@ -1,4 +1,4 @@
-# Arrests-Dataset- 
+# Arrests Dataset
 Capstone Project By: Zhengzheng Wang, Ajanthan Mathialagan, Zihui Yu, Mingming Wei and Harbrinder Bhullar
 
 “Arrests” dataset is based on the police treatment of individuals arrested in Toronto for possession of small amounts of marijuana from 1997 to 2002. 
